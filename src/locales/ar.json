@@ -1,0 +1,74 @@
+{
+  "common": {
+    "dashboard": "لوحة التحكم",
+    "appointments": "المواعيد",
+    "patients": "المرضى",
+    "nurses": "الممرضين",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "profile": "الملف الشخصي",
+    "darkMode": "الوضع الداكن",
+    "language": "اللغة",
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "about": "عن المنصة",
+    "contact": "اتصل بنا",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "next": "التالي",
+    "back": "رجوع",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "loading": "جاري التحميل..."
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "phone": "رقم الهاتف",
+    "phonePlaceholder": "05xxxxxxxx",
+    "accountType": "نوع الحساب",
+    "patient": "مريض",
+    "nurse": "ممرض/ة",
+    "address": "العنوان",
+    "addressPlaceholder": "أدخل عنوانك",
+    "medicalHistory": "معلومات طبية سابقة (اختياري)",
+    "medicalHistoryPlaceholder": "أدخل أي معلومات طبية سابقة",
+    "specialization": "التخصص",
+    "specializationPlaceholder": "تمريض عام، رعاية المسنين، إلخ",
+    "experience": "سنوات الخبرة",
+    "experiencePlaceholder": "أدخل عدد سنوات الخبرة",
+    "certifications": "الشهادات والمؤهلات",
+    "certificationsPlaceholder": "أدخل شهاداتك ومؤهلاتك"
+  },
+  "home": {
+    "hero": {
+      "title": "الرعاية المنزلية",
+      "subtitle": "رعاية صحية متميزة في منزلك",
+      "description": "منصة تربط المرضى بالممرضين المؤهلين لتقديم خدمات الرعاية الصحية المنزلية. احصل على الخدمة التي تحتاجها بسهولة وأمان."
+    },
+    "features": {
+      "title": "مميزات المنصة",
+      "quality": {
+        "title": "رعاية عالية الجودة",
+        "description": "نوفر ممرضين ذوي خبرة وتدريب عالي للتأكد من حصول المرضى على أفضل رعاية ممكنة."
+      },
+      "security": {
+        "title": "خصوصية وأمان",
+        "description": "نضمن خصوصية وأمان بياناتك الشخصية والطبية، مع التزامنا بأعلى معايير الأمان."
+      },
+      "ease": {
+        "title": "سهولة الاستخدام",
+        "description": "واجهة سهلة الاستخدام تمكنك من طلب الخدمة التي تحتاجها ومتابعتها بكل سهولة."
+      }
+    }
+  }
+}

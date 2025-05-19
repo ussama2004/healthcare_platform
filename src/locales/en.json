@@ -1,0 +1,74 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "appointments": "Appointments",
+    "patients": "Patients",
+    "nurses": "Nurses",
+    "settings": "Settings",
+    "logout": "Logout",
+    "profile": "Profile",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "next": "Next",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "05xxxxxxxx",
+    "accountType": "Account Type",
+    "patient": "Patient",
+    "nurse": "Nurse",
+    "address": "Address",
+    "addressPlaceholder": "Enter your address",
+    "medicalHistory": "Medical History (Optional)",
+    "medicalHistoryPlaceholder": "Enter any previous medical information",
+    "specialization": "Specialization",
+    "specializationPlaceholder": "General nursing, elderly care, etc.",
+    "experience": "Years of Experience",
+    "experiencePlaceholder": "Enter years of experience",
+    "certifications": "Certifications and Qualifications",
+    "certificationsPlaceholder": "Enter your certifications and qualifications"
+  },
+  "home": {
+    "hero": {
+      "title": "Home Healthcare",
+      "subtitle": "Premium Healthcare in Your Home",
+      "description": "A platform connecting patients with qualified nurses to provide home healthcare services. Get the service you need easily and securely."
+    },
+    "features": {
+      "title": "Platform Features",
+      "quality": {
+        "title": "High Quality Care",
+        "description": "We provide experienced and highly trained nurses to ensure patients receive the best possible care."
+      },
+      "security": {
+        "title": "Privacy & Security",
+        "description": "We ensure the privacy and security of your personal and medical data, adhering to the highest security standards."
+      },
+      "ease": {
+        "title": "Ease of Use",
+        "description": "An easy-to-use interface that enables you to request and track the service you need with complete ease."
+      }
+    }
+  }
+}
